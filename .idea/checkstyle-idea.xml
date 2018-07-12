@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CheckStyle-IDEA">
+    <option name="configuration">
+      <map>
+        <entry key="active-configuration" value="LOCAL_FILE:/Users/a123456/Downloads/code-specification-568fc035d13d99d437b2a7ced8e3e4b8fb45d513-568fc035d13d99d437b2a7ced8e3e4b8fb45d513/alibaba/ali_checkstyle_simple.xml:alibaba_check_style" />
+        <entry key="checkstyle-version" value="8.8" />
+        <entry key="copy-libs" value="false" />
+        <entry key="location-0" value="BUNDLED:(bundled):Sun Checks" />
+        <entry key="location-1" value="BUNDLED:(bundled):Google Checks" />
+        <entry key="location-2" value="LOCAL_FILE:/Users/a123456/Downloads/code-specification-568fc035d13d99d437b2a7ced8e3e4b8fb45d513-568fc035d13d99d437b2a7ced8e3e4b8fb45d513/alibaba/ali_checkstyle_simple.xml:alibaba_check_style" />
+        <entry key="scan-before-checkin" value="false" />
+        <entry key="scanscope" value="JavaOnly" />
+        <entry key="suppress-errors" value="false" />
+      </map>
+    </option>
+  </component>
+</project>
